@@ -41,6 +41,8 @@ E --> UC8
 UC5 ..> UC6 : «include»
 @enduml
 ```
+<img width="612" height="547" alt="2222222222222" src="https://github.com/user-attachments/assets/2316a2b8-9a8b-464f-ae5e-935b0f2de464" />
+
 
 ## Descrição dos Casos de Uso
 
