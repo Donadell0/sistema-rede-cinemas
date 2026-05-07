@@ -46,6 +46,8 @@ Filme   "1" --> "0..*" Sessao
 Sessao  "1" --> "0..*" RegistroPublico
 @enduml
 ```
+<img width="378" height="505" alt="TP71IWCn48RlUOgmteGMYw3YGMfR2zx4UYzZCcw79faoIKxYknkxssBMzRJCDvdytqxcCO6ax9tQaKNjCUtOHXNt50uWuBLn4EC2pBuLpi4ksR7eYwURzMoz-7ECnQBqHwvlxnvNAwME7RsaW1xqfzAQhBxNpo5XYrBAm1uBs2IXq9RQa0LR4IoEbYiIIWwQYXaum6dsVFtNANzDpkDOVA" src="https://github.com/user-attachments/assets/4ab0c2c3-4a1f-4d53-abab-2be961ebd8f0" />
+
 
 ## Descrição das Entidades
 
