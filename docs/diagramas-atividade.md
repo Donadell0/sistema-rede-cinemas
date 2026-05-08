@@ -39,6 +39,8 @@ endif
 stop
 @enduml
 ```
+<img width="763" height="1056" alt="1111" src="https://github.com/user-attachments/assets/4dfdcda8-85fa-4401-8f48-3c310d69e2b9" />
+
 
 ---
 
@@ -73,6 +75,7 @@ endif
 stop
 @enduml
 ```
+<img width="494" height="813" alt="22222" src="https://github.com/user-attachments/assets/a302e732-a7f6-477a-bf81-962662456ffa" />
 
 ---
 
@@ -98,6 +101,9 @@ endif
 :Retornar total ao usuário;
 
 |Usuário|
+```
+<img width="809" height="446" alt="333333" src="https://github.com/user-attachments/assets/8744b7af-817a-49d1-9853-e7769fe2cbb0" />
+
 :Visualizar resultado;
 stop
 @enduml
