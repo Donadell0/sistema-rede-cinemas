@@ -71,6 +71,8 @@ deactivate C
 
 ---
 
+<img width="1258" height="1024" alt="1111111" src="https://github.com/user-attachments/assets/928d7535-b3f5-4241-b32a-a97a20ef40a6" />
+
 ## DS02 – Consultar Público por Cinema
 
 Fluxo de leitura mostrando como a agregação SQL percorre as camadas até retornar ao cliente.
@@ -110,3 +112,4 @@ C --> Cliente : 200 {"cinema": "...", "total_publico": 410}
 deactivate C
 @enduml
 ```
+<img width="1194" height="597" alt="zzzzzzzzzzz" src="https://github.com/user-attachments/assets/6c7c5e07-bc04-4a95-ad09-27b18fc40d2e" />
