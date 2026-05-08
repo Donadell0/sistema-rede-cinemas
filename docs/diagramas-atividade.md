@@ -101,10 +101,8 @@ endif
 :Retornar total ao usuário;
 
 |Usuário|
-```
-<img width="809" height="446" alt="333333" src="https://github.com/user-attachments/assets/8744b7af-817a-49d1-9853-e7769fe2cbb0" />
-
 :Visualizar resultado;
 stop
 @enduml
 ```
+<img width="809" height="446" alt="333333" src="https://github.com/user-attachments/assets/8744b7af-817a-49d1-9853-e7769fe2cbb0" />
